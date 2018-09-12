@@ -170,6 +170,8 @@ Arthur Juchereau, Servanne Monjour, Nicolas Sauret, Marcello Vitali-Rosati
 
 ### Merci !
 
+<i class="fa fa-arrow-right"></i> présentation : [ecrituresnumeriques.github.io/s_StyloMedici](https://ecrituresnumeriques.github.io/s_StyloMedici)
+
 <i class="fa fa-arrow-right"></i> écrire : [stylo.ecrituresnumeriques.ca](http://stylo.ecrituresnumeriques.ca)
 
 &nbsp;
