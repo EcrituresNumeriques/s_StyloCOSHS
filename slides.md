@@ -21,7 +21,7 @@ _Journées Médici_
 
 <!-- .element: style="font-size:1.5rem" -->
 
-![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png) ![logo CRCEN](img/LogoENDT10-2016.png) <!-- .element: class="logo" style="width:20%; background-color:ghostwhite;padding: 4px" -->
+![logo CRCEN](img/LogoENDT10-2016.png) <!-- .element: class="logo" style="width:20%; background-color:ghostwhite;padding: 4px" --> ![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
 ===
 
@@ -103,26 +103,27 @@ Arthur Juchereau, Servanne Monjour, Nicolas Sauret, Marcello Vitali-Rosati
 <!-- .element: style="font-size:0.8em;" -->
 
 1. **Éditeur de métadonnées**
+  - yaml <!-- .element: style="color:Darkorange;" -->
+  - DC, RDFa, Foaf,
+    ScholarlyArticle, Google Scholar, Prism schema <!-- .element: style="color:Darkorange;" -->
   - Vocabulaire contrôlé
   - Alignement avec des autorités (Rameau, Wikidata, LOC)
   - Via l'API rechercheisidore (Huma-num)
 2. **Éditeur de texte** avec balisage interne
-  - Texture (adapté)
-  - Markdown
-  - Tex
+  - Markdown enrichi <!-- .element: style="color:Darkorange;" -->
   - autres ?
 3. **Gestion bibliographique**
+  - BibTeX <!-- .element: style="color:Darkorange;" -->
   - Api Zotero
-  - BibTeX
 
 <!-- .element: style="font-size:0.6em; width:55%; float:left;" -->
 
 
 1. **Conversion**
-  - pandoc (html, pdf, autre)
-  - XSLT (xml TEI, Erudit)
+  - pandoc <!-- .element: style="color:Darkorange;" --> (vers html, LateX, pdf)
+  - XSLT <!-- .element: style="color:Darkorange;" --> (vers TEI-LOD, Erudit)
 2. **Versioning**
-  - git
+  - git <!-- .element: style="color:Darkorange;" -->
   - comparateur de versions
 3. **API**
 
@@ -135,11 +136,15 @@ Arthur Juchereau, Servanne Monjour, Nicolas Sauret, Marcello Vitali-Rosati
 <!-- .slide: data-background-image="img/" data-background-size="cover"-->
 <!--  .slide: class="hover"-->
 
-## Démo
+### Démo
 
 <i class="fa fa-arrow-right"></i> écrire : [stylo.ecrituresnumeriques.ca](http://stylo.ecrituresnumeriques.ca)
 
+<!-- .element: style="font-size:0.9em;" -->
+
 <i class="fa fa-arrow-right"></i> premiers pas : [stylo-doc.ecrituresnumerique.ca](http://stylo-doc.ecrituresnumerique.ca)
+
+<!-- .element: style="font-size:0.9em;" -->
 
 %%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/" data-background-size="cover"-->
@@ -150,11 +155,11 @@ Arthur Juchereau, Servanne Monjour, Nicolas Sauret, Marcello Vitali-Rosati
 - Stylo édite actuellement la revue Sens Public |  [sens-public.org](http://sens-public.org)
 - Stylo sera déployé auprès de six revues pilotes dans le cadre du projet Partenariat Revue 2.0 (Open Edition, Erudit, Human-num) | [revue20.org](http://revue20.org)
 
-<!-- .element: style="font-size:0.8em;" -->
+<!-- .element: style="font-size:0.7em;" -->
 
 <i class="fa fa-arrow-right"></i> besoin de vos retours d'usage !
 
-<!-- .element: style="font-size:0.8em;" -->
+<!-- .element: style="font-size:0.7em;" -->
 
 &nbsp;
 
@@ -170,14 +175,19 @@ Arthur Juchereau, Servanne Monjour, Nicolas Sauret, Marcello Vitali-Rosati
 
 ### Merci !
 
+
 <i class="fa fa-arrow-right"></i> présentation : [ecrituresnumeriques.github.io/s_StyloMedici](https://ecrituresnumeriques.github.io/s_StyloMedici)
 
-<i class="fa fa-arrow-right"></i> écrire : [stylo.ecrituresnumeriques.ca](http://stylo.ecrituresnumeriques.ca)
+<!-- .element: style="font-size:0.7em;" -->
 
-&nbsp;
+<i class="fa fa-arrow-right"></i> contribuer : [github.com/EcrituresNumeriques/stylo/](https://github.com/EcrituresNumeriques/stylo/)
 
-![logo CRCEN](img/LogoENDT10-2016.png) <!-- .element: class="logo" style="width:30%; background-color:ghostwhite;padding: 7px" -->
+<!-- .element: style="font-size:0.7em;" -->
 
+<i class="fa fa-arrow-right"></i> écrire : [stylo.ecrituresnumeriques.ca](http://stylo.ecrituresnumeriques.ca/)
 
+<!-- .element: style="font-size:0.7em;" -->
 
+---
+![logo CRCEN](img/LogoENDT10-2016.png) <!-- .element: class="logo" style="width:25%; background-color:ghostwhite;padding: 7px" -->
 ![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
