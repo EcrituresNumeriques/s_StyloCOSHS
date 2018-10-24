@@ -16,8 +16,8 @@ Nicolas Sauret, Marcello Vitali-Rosati
 
 <!-- .element: style="font-size:1.5rem" -->
 
-_Journées Médici_  
-18-20 sept. 2018 | Avignon
+_Journée d'étude CO.SHS_  
+10 oct. 2018 | Montréal
 
 <!-- .element: style="font-size:1.5rem" -->
 
@@ -175,10 +175,6 @@ Arthur Juchereau, Servanne Monjour, Nicolas Sauret, Marcello Vitali-Rosati
 
 ### Merci !
 
-
-<i class="fa fa-arrow-right"></i> présentation : [ecrituresnumeriques.github.io/s_StyloMedici](https://ecrituresnumeriques.github.io/s_StyloMedici)
-
-<!-- .element: style="font-size:0.7em;" -->
 
 <i class="fa fa-arrow-right"></i> contribuer : [github.com/EcrituresNumeriques/stylo/](https://github.com/EcrituresNumeriques/stylo/)
 
